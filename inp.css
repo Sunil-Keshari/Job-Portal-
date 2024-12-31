@@ -1,0 +1,22 @@
+*{
+    margin: 7px;
+    padding: auto;
+    color:blueviolet;
+
+}
+
+
+#portal{
+    color:red;
+    align-items: center;
+    text-align: center;
+    top: 50%;
+}
+.form{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+div{
+    color: rgb(90, 25, 25);
+}
